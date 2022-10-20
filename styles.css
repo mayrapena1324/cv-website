@@ -51,7 +51,7 @@ body {
 }
 
 .contact-message {
-    width: 40%
+    width: 40%;
     margin: 40px auto 60px;
 }
 
@@ -65,7 +65,7 @@ body {
 .footer-link {
     margin: 10px 20px;
     font-family: 'Montserrat', sans-ser;
-    text-decoration: none
+    text-decoration: none;
 }
 
 .footer-link:hover {
